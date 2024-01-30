@@ -1,0 +1,41 @@
+{
+    "products":[
+        {
+          "id":10001,
+          "name":"Basic To advance in react",
+          "price":49,
+          "in_stock":true
+        },
+
+        {
+            "id":10002,
+            "name":"Basic To advance in Python",
+            "price":39,
+            "in_stock":true
+          },
+
+
+          {
+            "id":10003,
+            "name":"Basic To advance in C++",
+            "price":29,
+            "in_stock":false
+          },
+          {
+            "id":10004,
+            "name":"Basic To advance in Java",
+            "price":90,
+            "in_stock":true
+          },
+
+          {
+            "id":10005,
+            "name":"Basic To advance in HTML",
+            "price":19,
+            "in_stock":true
+          }
+  
+
+]
+    
+}
